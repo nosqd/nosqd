@@ -14,4 +14,4 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## Currently working on
-![Static Badge](https://img.shields.io/badge/Millida_Client-nosqd?style=for-the-badge&color=black&link=https%3A%2F%2Fmillida.net%2Fclient)
+[Millida Client](https://millida.net/client)
