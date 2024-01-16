@@ -15,16 +15,21 @@
 
 ## Hardware
 ### Main PC
+```
 CPU: Intel Core i5-11400
 GPU: PALIT nVidia GTX 1080 TI
 RAM: 32 GB, KingSpec@3200
 Mouse: Bloody ES5
 Keyboard: Ardor Gaming Blade Pro
+```
 
 ### Laptop
+```
+Acer Nitro 5 AN515-44-R01R
 CPU: AMD Ryzen 7 4800H
 GPU: nVidia GTX 1650 TI
 RAM: 16 GB
+```
 
 ## Currently working on
 [Millida Client](https://millida.net/client)
